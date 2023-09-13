@@ -1,1 +1,4 @@
-# AboutMe
+# Hello! My name is Karnveer Singh and I am a double major student studying Computer Science and Information Technology at the New Jersey Institute of Technology (NJIT)
+# My previous work experience comprises of various internships. Most recently I had the opportunity to intern as a Cloud Engineer at a consulting firm in NYC where I worked with management and other interns on the front end, back end, and cloud deployment of a web application for a client of the firm
+# I’m currently proficient in Python, Java, C++, HTML & CSS, PHP, SQL, JavaScript, C, C#, and Microsoft Azure and I look forward to continuing on developing my skills and interests!
+# I’m looking to collaborate on projects of all sorts. No matter how minimal or big it may be, I would love to work and participate in any project with which I have the ability to learn and maybe teach as well.
